@@ -1,0 +1,21 @@
+*{
+	margin: 2px;
+	padding: 2px;
+}
+
+input{
+	border-radius: 10px;
+}
+
+body{
+	background-image: url(../img/depositphotos_128913142-stock-photo-pastel-colored-background-with-gradient.jpg);
+	font-size: 16px;
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+p{
+	font-size: 3em;
+	color: #2A0A12;
+	font-weight: bold;
+}
